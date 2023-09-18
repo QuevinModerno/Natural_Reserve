@@ -1,0 +1,4 @@
+animal C 2 2
+food r 5 5
+see 5 5
+info 1
